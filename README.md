@@ -128,3 +128,26 @@ Example Input is AMVAANISHHS Output is A3M1V1N1I1S2H2
 62. What is ThreadPool. How can we create ThreadPool in Java.
 
 63. What is Java Timer Class? How to schedule a task to run after specific interval.
+
+65. Explain the java OOPS Concept.
+
+66. Difference betwwen Interface and Abstract.
+
+67. List down the Access Modifiers in java.
+
+68. What are final, finally, and finalize.
+
+69. Difference between Toolbar and AppBar Layout.
+
+70. How do you reduce the apk size.
+
+71. What is AAPT? Mention some adb commands.
+
+72. How will you change the package name.
+
+73. What is buildToolVersion, compileSDKVersion and targetSDKVersion.
+
+74. Difference between notifyDataSetChanged and   notifyItemChanged.
+
+75. When we upload an apk, then what needs to be changed versionCode or
+    versionName. Explain.
