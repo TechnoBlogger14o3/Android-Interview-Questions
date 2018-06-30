@@ -1,15 +1,15 @@
 # Android-Interview-Questions
 
 For the couple of Months I gave interview to lot of companies, I collected the Questions and here I’m listing it, and will keep on updating it. For now I’m only updating the Questions, soon I’ll update the answers.
-1.	   What is Zygote Process.
-2.	   What is Dagger, and explain Dependecy Injection.
-3.	   What is Retrofit, and its benefits.
-4.	   Explain MVP.
-5.	   What is XML Parser
-6.	   Activity vs Fragment
-7.	   Class vs Struct
-8.	   Throw vs Throws vs Throwable
-9.	   String vs StringBuffer vs StringBuilder
+1. What is Zygote Process.
+2. What is Dagger, and explain Dependecy Injection.
+3. What is Retrofit, and its benefits.
+4. Explain MVP.
+5. What is XML Parser
+6. Activity vs Fragment
+7. Class vs Struct
+8. Throw vs Throws vs Throwable
+9. String vs StringBuffer vs StringBuilder
 10.   HashSet vs HashMap
 11.	Error v Exception
 12.	CheckedException vs UnChecked Exception.
@@ -80,4 +80,4 @@ For the couple of Months I gave interview to lot of companies, I collected the Q
 76.	What is difference between start() method and run() method from Thread.
 77.	Which is better to use synchronized method or synchronized block.
 78.	Explain Job Scheduler in detail.
-
+79.   When will you use constraint layout.
