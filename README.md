@@ -81,3 +81,4 @@ For the couple of Months I gave interview to lot of companies, I collected the Q
 77.	Which is better to use synchronized method or synchronized block.
 78.	Explain Job Scheduler in detail.
 79.   When will you use constraint layout.
+80.   In how manys ou can achieve Thread safeness or how to avoid Thread Interference.
