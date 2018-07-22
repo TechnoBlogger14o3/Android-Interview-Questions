@@ -82,3 +82,10 @@ For the couple of Months I gave interview to lot of companies, I collected the Q
 78.	Explain Job Scheduler in detail.
 79.   When will you use constraint layout.
 80.   How can you achieve Thread safeness or how to avoid Thread Interference.
+81.   Difference between inner class and static inner class.
+82.   What is copy constructor.
+83.   Given an array, find the sum of two Maximum Number and two Minimum Number.
+84.   Difference between ListView and RecyclerView.
+85.   What is art. Tell me difference between art and dvm.
+86.   How will you send data between two Fragments.
+87.   Explain Observer Design Pattern.
